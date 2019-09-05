@@ -1,0 +1,3 @@
+./trickyatdispatch2.test:9: In static dispatch expression caller object type doesn't conform to the declared dispatch type
+./trickyatdispatch2.test:9: Returned type of a method binky doesn't conform to the declared return type
+Compilation halted due to static semantic errors.
